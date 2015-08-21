@@ -1,1 +1,1 @@
-# tools_jdk-6u45-linux-x64
+jdk-6u45-linux-x64.bin
